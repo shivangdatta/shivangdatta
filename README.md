@@ -5,6 +5,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
-<div class="text-center">
+<div id="badges" align="center">
   <img src="https://profile-counter.glitch.me/{shivangdatta}/count.svg" alt="Visitor Count"/>
 </div>
