@@ -16,12 +16,12 @@
   I am a Full Stack Developer.
     <br>
   
-   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+    I’m working as a self trained Software Engineer and contributing to frontend and backend for building web applications.
 
-   :seedling: Exploring Technical Content Writing.
+    I am invested in Competitive Programming.
 
-   :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+    I love to solve problems on platforms like leetcode , hackerrank and interviewbit.
 
-   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+     How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivang-datta-aa8127256/)
 
 </div>
