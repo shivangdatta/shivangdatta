@@ -15,12 +15,12 @@
   <h4> About Me</h4>
   I am a Full Stack Developer.
     <br>
-  
+    <p>
     I’m working as a self trained Software Engineer and contributing to frontend and backend for building web applications.
-
+  
     I am invested in Competitive Programming.
 
     I love to solve problems on platforms like leetcode , hackerrank and interviewbit.
 
-    
+    </p>
 </div>
