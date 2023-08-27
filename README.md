@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 
-  ![](https://komarev.com/ghpvc/?username=shivangdatta&label=PROFILE+VIEWS)
+![Visitor Count](https://profile-counter.glitch.me/{shivangdatta}/count.svg)
+
 
 <!--
 **shivangdatta/shivangdatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
