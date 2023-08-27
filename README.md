@@ -12,7 +12,7 @@
   <h1>Greetings
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZvZHR1bGx0eGRxYXMzZmdueDlrd3pobHh6bXczYXdwbmF6NHFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="90px">
   </h1>
-  <h4> About Me</h4>
+  <h3> About Me</h3>
   <br>
   I am a Full Stack Developer.
     <p>
