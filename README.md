@@ -17,10 +17,10 @@
     <br>
     <p>
     I’m working as a self trained Software Engineer and contributing to frontend and backend for building web applications.
-  
+    <p>
     I am invested in Competitive Programming.
-
+    <p>
     I love to solve problems on platforms like leetcode , hackerrank and interviewbit.
 
-    </p>
+
 </div>
