@@ -8,3 +8,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=shivangdatta&style=flat-square&color=green" alt=""/>
 </div>
+<div>
+  <h1>Greetings</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZvZHR1bGx0eGRxYXMzZmdueDlrd3pobHh6bXczYXdwbmF6NHFjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="40px">
+</div>
