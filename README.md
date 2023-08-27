@@ -23,5 +23,8 @@
     I love to solve problems on platforms like leetcode , hackerrank and interviewbit.
     <p>
     How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
+</div>
+<div align="center">
+  <h3>Technical Stack</h3>
+  
 </div>
