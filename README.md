@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 <div id="badges" align="center">
-  <img src=(https://komarev.com/ghpvc/?shivangdatta&style=for-the-badge&color=green)/>
+  <img src="https://komarev.com/ghpvc/?shivangdatta&style=for-the-badge&color=green"/>
 </div>
 <!--
 **shivangdatta/shivangdatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
