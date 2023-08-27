@@ -29,5 +29,5 @@
   <h3>Technical Stack</h3>
   <br>
   <h4> Languages <h4>
-  <img src="!https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
