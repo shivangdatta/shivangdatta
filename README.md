@@ -14,7 +14,8 @@
   </h1>
   <h4> About Me</h4>
   I am a Full Stack Developer.
-
+    <br>
+  
    :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
    :seedling: Exploring Technical Content Writing.
