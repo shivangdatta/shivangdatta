@@ -78,7 +78,7 @@
   <h1>Github Stats</h1>
   <div height="400px">
     <img src="https://github-readme-stats.vercel.app/api?username=shivangdatta&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="full"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangdatta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="full"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangdatta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="400px"/>
   </div>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangdatta&theme=dark&hide_border=false">
