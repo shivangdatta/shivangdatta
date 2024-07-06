@@ -16,7 +16,7 @@
   <br>
   I am a Full Stack Developer.
     <p>
-    I’m working as a self trained Software Engineer and contributing to frontend and backend for building web applications.
+    I’m working as a student Software Engineer and contributing to frontend and backend for building web applications.
     <p>
     I am invested in Competitive Programming.
     <p>
