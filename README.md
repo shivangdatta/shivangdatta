@@ -16,13 +16,13 @@
   <br>
   I am a Full Stack Developer.
     <p>
-    I’m working as a student Software Engineer and contributing to frontend and backend for building web applications.
+    I’m a software dev who recently graduated, I have interned recently at Juniper Networks and before that at SDC manipal.
     <p>
     I am invested in Competitive Programming.
     <p>
     I love to solve problems on platforms like leetcode , hackerrank and interviewbit.
     <p>
-    How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    How to reach me: <a src="https://www.linkedin.com/in/shivang-datta-aa8127256/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 </div>
 <div align="center">
   <br><br>
