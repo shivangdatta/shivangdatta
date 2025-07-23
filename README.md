@@ -22,7 +22,10 @@
     <p>
     I love to solve problems on platforms like leetcode , hackerrank and interviewbit.
     <p>
-    How to reach me: <a src="https://www.linkedin.com/in/shivang-datta-aa8127256/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+    How to reach me: 
+      <a href="https://www.linkedin.com/in/shivang-datta-aa8127256/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+      </a>
 </div>
 <div align="center">
   <br><br>
